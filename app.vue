@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <h1>Shared UI Buttons</h1>
   </div>
 </template>
